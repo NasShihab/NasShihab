@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **[MeTube](https://github.com/NasShihab/metube)**
 
-- 🌱 I’m currently learning **Flutter - Riverpod**
+- 🌱 I’m currently learning **[Flutter - Riverpod 2.0](https://pub.dev/packages/riverpod/versions/2.0.0-dev.0)**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1-8ehDDYzz16F3S7qisuBEl1JeY_L91UN/view?usp=share_link)
 
