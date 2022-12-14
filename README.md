@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/nasshihab" target="blank"><img src="https://img.shields.io/twitter/follow/nasshihab?logo=twitter&style=for-the-badge" alt="nasshihab" /></a> </p>
 
-- 🔭 I’m currently working on **MeTube**
+- 🔭 I’m currently working on **[MeTube](https://github.com/NasShihab/metube)**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter - Riverpod**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-8ehDDYzz16F3S7qisuBEl1JeY_L91UN/view?usp=share_link](https://drive.google.com/file/d/1-8ehDDYzz16F3S7qisuBEl1JeY_L91UN/view?usp=share_link)
 
