@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nas Shihab</h1>
 <h3 align="center">A passionate android developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasshihab" alt="nasshihab" /></a> </p>
-
-
 - 🔭 I’m currently working on **[MeTube](https://github.com/NasShihab/metube)**
 
 - 🌱 I’m currently learning **[Flutter - Riverpod 2.0](https://pub.dev/packages/flutter_riverpod)**
@@ -30,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasshihab&show_icons=true&locale=en&layout=compact" alt="nasshihab" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasshihab&show_icons=true&locale=en" alt="nasshihab" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasshihab" alt="nasshihab" /></a> </p>
