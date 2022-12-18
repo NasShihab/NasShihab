@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/nas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nas" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7704131/nas-shihab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nas-shihab" height="30" width="40" /></a>
 <a href="https://instagram.com/nas.shihab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nas.shihab" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCkC_dCceTw9o1-Rq4IxK2HQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Nas With Flutter" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCkC_dCceTw9o1-Rq4IxK2HQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Flutter With Nas" height="30" width="40" /></a>
 
 </p>
 
