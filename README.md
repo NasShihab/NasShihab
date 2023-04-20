@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **[MeTube](https://github.com/NasShihab/metube)**
 
-- 🌱 I’m currently learning **[Flutter - Riverpod 2.0](https://pub.dev/packages/flutter_riverpod)**
+- 🌱 I’m currently learning **[Flutter - GetX](https://pub.dev/packages/get)**
 - 🌱 Also learning **[API - http](https://pub.dev/packages/http)**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1-8ehDDYzz16F3S7qisuBEl1JeY_L91UN/view?usp=share_link)
