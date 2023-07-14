@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning **[Flutter - GetX](https://pub.dev/packages/get)** 
 - 🌱 Also learning **[API - http](https://pub.dev/packages/http)**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1-8ehDDYzz16F3S7qisuBEl1JeY_L91UN/view?usp=share_link)
-
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1xc6PUy8kWw0DmPpzksHQCWaxt4eIigIn/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://m.me/nas.shihab" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Facebook_Messenger_logo_2020.svg"alt="Nas Shihab" height="30" width="40" /></a>
