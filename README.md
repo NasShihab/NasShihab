@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nas Shihab</h1>
-<h3 align="center">A passionate android developer from Bangladesh</h3>
+<h3 align="center">A passionate Flutter developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **[E-Commerce - NasXpress](https://github.com/NasShihab/nas_xpress)**
 - 🌱 I’m currently learning **[Flutter - GetX](https://pub.dev/packages/get)**
