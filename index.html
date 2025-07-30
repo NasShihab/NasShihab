@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My CV - Nas</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f4f4f4;
+      color: #333;
+      margin: 0;
+      padding: 2rem;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: #fff;
+      padding: 2rem;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2, h3 {
+      color: #2c3e50;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 0.5rem;
+    }
+    .section {
+      margin-top: 1.5rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container" id="cv-container">
+    <!-- Content will be injected here -->
+  </div>
+
+  <script>
+    const cvData = {
+      "name": "Nas",
+      "title": "Flutter Developer",
+      "contact": {
+        "email": "nas@example.com",
+        "phone": "+8801XXXXXXXXX"
+      },
+      "summary": "Passionate mobile developer with 3+ years of experience building high-performance Flutter apps.",
+      "skills": ["Flutter", "Dart", "Firebase", "REST API", "Git"],
+      "experience": [
+        {
+          "company": "Tech Ltd",
+          "position": "Mobile Developer",
+          "years": "2022 - Present",
+          "details": "Developed and maintained multiple Flutter apps used by thousands of users."
+        }
+      ],
+      "education": [
+        {
+          "degree": "B.Sc. in Computer Science & Engineering",
+          "institution": "XYZ University",
+          "year": "2021"
+        }
+      ]
+    };
+
+    const container = document.getElementById('cv-container');
+    container.innerHTML = `
+      <h1>${cvData.name}</h1>
+      <h2>${cvData.title}</h2>
+      <p><strong>Email:</strong> ${cvData.contact.email} | <strong>Phone:</strong> ${cvData.contact.phone}</p>
+      <div class="section">
+        <h3>Summary</h3>
+        <p>${cvData.summary}</p>
+      </div>
+      <div class="section">
+        <h3>Skills</h3>
+        <ul>${cvData.skills.map(skill => `<li>${skill}</li>`).join('')}</ul>
+      </div>
+      <div class="section">
+        <h3>Experience</h3>
+        <ul>
+          ${cvData.experience.map(exp => `
+            <li>
+              <strong>${exp.position}</strong> at ${exp.company} (${exp.years})<br/>
+              <p>${exp.details}</p>
+            </li>
+          `).join('')}
+        </ul>
+      </div>
+      <div class="section">
+        <h3>Education</h3>
+        <ul>
+          ${cvData.education.map(edu => `
+            <li>
+              ${edu.degree} - ${edu.institution} (${edu.year})
+            </li>
+          `).join('')}
+        </ul>
+      </div>
+    `;
+  </script>
+</body>
+</html>
