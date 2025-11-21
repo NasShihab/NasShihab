@@ -10,67 +10,76 @@
   </a>
 </p>
 
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://m.me/nas.shihab" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Facebook_Messenger_logo_2020.svg" alt="Messenger" height="30"/></a>
-  <a href="https://fb.com/nas.shihab" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30"/></a>
-  <a href="https://twitter.com/nas_shihab" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30"/></a>
-  <a href="https://linkedin.com/in/nas" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30"/></a>
-  <a href="https://stackoverflow.com/users/7704131/nas-shihab" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30"/></a>
-  <a href="https://www.youtube.com/channel/UCkC_dCceTw9o1-Rq4IxK2HQ" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30"/></a>
+<p align="center">
+  <a href="https://twitter.com/nas_shihab" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/nas_shihab?logo=twitter&style=for-the-badge">
+  </a>
+  <a href="https://github.com/nasshihab" target="_blank">
+    <img src="https://img.shields.io/github/followers/nasshihab?logo=github&style=for-the-badge">
+  </a>
 </p>
 
 ---
 
-<h3 align="left">💻 Tech Stack & Tools:</h3>
+### 📬 Connect with me:
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/photoshop/photoshop-icon.svg" alt="Photoshop" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+<a href="https://linkedin.com/in/nas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nas" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7704131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7704131" height="30" width="40" /></a>
+<a href="https://fb.com/nas.shihab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nas.shihab" height="30" width="40" /></a>
+<a href="https://m.me/nas.shihab" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Facebook_Messenger_logo_2020.svg" alt="nas.shihab" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/UCkC_dCceTw9o1-Rq4IxK2HQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCkC_dCceTw9o1-Rq4IxK2HQ" height="30" width="40" /></a>
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+### 🛠️ My Tech Stack:
+
+Here are a few of the technologies and tools I work with:
+
+*   **Languages:** `Dart`, `JavaScript`, `TypeScript`, `Python`
+*   **Frameworks & Libraries:** `Flutter`, `React`, `Node.js`
+*   **Databases:** `Firebase`, `MongoDB`
+*   **Tools:** `Git`, `Figma`, `Adobe XD`, `Postman`
+*   **Platforms:** `Android`, `iOS`, `Web`, `Linux`
+
+---
+
+### 📊 My GitHub Stats:
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nasshihab&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasshihab&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasshihab&theme=radical" alt="GitHub Streak" />
+</p>
+
 ---
 
-<h3 align="left">🔥 WakaTime / Coding Activity:</h3>
+### 💻 WakaTime / Coding Activity:
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nasshihab&theme=radical" alt="Coding Activity" />
 </p>
 
 ---
 
-<h3 align="left">🌱 Currently Learning & Exploring:</h3>
-<ul>
-  <li>Advanced Flutter Animations & State Management</li>
-  <li>Clean Architecture & MVVM for Flutter</li>
-  <li>AI Integration in Mobile Apps</li>
-</ul>
+### 🌱 I'm Currently Learning:
+
+-   Advanced Flutter Concepts (Animations, State Management)
+-   Clean Architecture & MVVM for scalable apps
+-   AI/ML integration in mobile applications
 
 ---
 
-<h3 align="left">💬 Ask Me About:</h3>
-<ul>
-  <li>Flutter & Dart</li>
-  <li>UI/UX Design</li>
-  <li>Mobile App Architecture</li>
-  <li>Open Source Contributions</li>
-</ul>
+### 💬 Ask Me About:
+
+-   Flutter & Dart development
+-   Building beautiful and functional UIs
+-   Mobile app architecture and best practices
+-   Contributing to open-source projects
 
 ---
 
