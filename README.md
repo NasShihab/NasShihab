@@ -50,18 +50,18 @@
 ## 🎨 State Management & Architecture
 
 ### **Proficient in:**
-- Provider, Riverpod, GetX
-- Reactive UI & scalable state handling
+## - Provider, Riverpod, GetX
+## - Reactive UI & scalable state handling
 
 ### **Architecture Patterns:**
-- SOLID principles
-- MVVM, Clean Architecture
-- Repository Pattern
+## - SOLID principles
+## - MVVM, Clean Architecture
+## - Repository Pattern
 
 ### **System Design:**
-- Requirement analysis
-- Feature breakdown
-- Scalable solution implementation
+## - Requirement analysis
+## - Feature breakdown
+## - Scalable solution implementation
 
 </td>
 <td width="50%" valign="top">
@@ -69,18 +69,18 @@
 ## 🔌 Backend & API Integration
 
 ### **REST API:**
-- Design & integration
-- Testing & validation
-- Backend collaboration
+## - Design & integration
+## - Testing & validation
+## - Backend collaboration
 
 ### **Firebase Suite:**
-- Authentication, Firestore
-- Cloud Functions, Analytics
-- Crashlytics
+## - Authentication, Firestore
+## - Cloud Functions, Analytics
+## - Crashlytics
 
 ### **Real-time Features:**
-- WebSocket, Push notifications
-- Live data synchronization
+## - WebSocket, Push notifications
+## - Live data synchronization
 
 </td>
 </tr>
@@ -91,20 +91,20 @@
 ## 🧠 AI & Machine Learning Integration
 
 ### **AI Workflows:**
-- Image-to-text generation
-- Text-to-image with modern LLMs
+## - Image-to-text generation
+## - Text-to-image with modern LLMs
 
 ### **Chatbot Development:**
-- LLM integration
-- Conversational AI interfaces
+## - LLM integration
+## - Conversational AI interfaces
 
 ### **Computer Vision:**
-- Face detection & liveness
-- ML Kit, Regula integration
+## - Face detection & liveness
+## - ML Kit, Regula integration
 
 ### **ML Models:**
-- TensorFlow Lite training
-- Google ML Kit Image Labeling
+## - TensorFlow Lite training
+## - Google ML Kit Image Labeling
 
 </td>
 <td width="50%" valign="top">
@@ -112,20 +112,20 @@
 ## 📱 Advanced Mobile Features
 
 ### **Biometric Systems:**
-- Face detection & liveness
-- Fingerprint authentication
+## - Face detection & liveness
+## - Fingerprint authentication
 
 ### **Scanning & Capture:**
-- QR/Barcode scanning
-- Selfie, document, ID capture
+## - QR/Barcode scanning
+## - Selfie, document, ID capture
 
 ### **Hardware Integration:**
-- POS devices, thermal printers
-- RFID/Biometric scanners
+## - POS devices, thermal printers
+## - RFID/Biometric scanners
 
 ### **Custom SDKs:**
-- Platform channels
-- Native SDK integration
+## - Platform channels
+## - Native SDK integration
 
 </td>
 </tr>
@@ -136,18 +136,18 @@
 ## 💳 Business Applications
 
 ### **E-commerce Solutions:**
-- Cart, checkout systems
-- Payment gateway integration
-- Admin dashboards
+## - Cart, checkout systems
+## - Payment gateway integration
+## - Admin dashboards
 
 ### **CRM Modules:**
-- End-to-end CRM systems
-- Customer management
+## - End-to-end CRM systems
+## - Customer management
 
 ### **Enterprise Tools:**
-- Quotation & invoice systems
-- Attendance tracking (RFID/Biometric)
-- POS applications & receipts
+## - Quotation & invoice systems
+## - Attendance tracking (RFID/Biometric)
+## - POS applications & receipts
 
 </td>
 <td width="50%" valign="top">
@@ -155,18 +155,18 @@
 ## 👨‍💼 Leadership & Management
 
 ### **Team Leadership:**
-- Led Android development teams
-- Sprint planning & execution
-- Code quality maintenance
+## - Led Android development teams
+## - Sprint planning & execution
+## - Code quality maintenance
 
 ### **Mentorship:**
-- Training junior developers
-- Peer code reviews
+## - Training junior developers
+## - Peer code reviews
 
 ### **DevOps & Process:**
-- CI/CD pipelines
-- Automated testing
-- Agile/Scrum methodologies
+## - CI/CD pipelines
+## - Automated testing
+## - Agile/Scrum methodologies
 
 </td>
 </tr>
@@ -221,24 +221,24 @@
 
 </div>
 
-### **Mobile Development Expertise**
-- ✅ E-commerce platforms with payment integration
-- ✅ CRM & Business management systems
-- ✅ POS applications with hardware integration
-- ✅ AI-powered chatbots & ML features
-- ✅ Biometric authentication systems
-- ✅ Real-time attendance tracking solutions
+## **Mobile Development Expertise**
+## - ✅ E-commerce platforms with payment integration
+## - ✅ CRM & Business management systems
+## - ✅ POS applications with hardware integration
+## - ✅ AI-powered chatbots & ML features
+## - ✅ Biometric authentication systems
+## - ✅ Real-time attendance tracking solutions
 
-### **Technical Proficiency**
-- ✅ Flutter & Cross-platform development
-- ✅ Clean Architecture & SOLID principles
-- ✅ State Management (Riverpod, Provider, GetX)
-- ✅ AI/ML Integration (TensorFlow Lite, ML Kit, LLM)
-- ✅ Firebase Suite & REST API Development
-- ✅ Team Leadership & Agile Methodologies
+## **Technical Proficiency**
+## - ✅ Flutter & Cross-platform development
+## - ✅ Clean Architecture & SOLID principles
+## - ✅ State Management (Riverpod, Provider, GetX)
+## - ✅ AI/ML Integration (TensorFlow Lite, ML Kit, LLM)
+## - ✅ Firebase Suite & REST API Development
+## - ✅ Team Leadership & Agile Methodologies
 
-### **Development Philosophy**
-**"Clean code + Scalable architecture + Seamless UX = Successful product"**
+## **Development Philosophy**
+## **"Clean code + Scalable architecture + Seamless UX = Successful product"**
 
 ---
 
