@@ -23,14 +23,14 @@
 
 </div>
 
-**Experienced cross-platform mobile app developer** with a strong focus on **Flutter (Dart)** and **Android architecture**. Proven track record in **leading development teams**, designing **scalable software systems**, and delivering **high-quality mobile solutions**.
+### **Experienced cross-platform mobile app developer** with a strong focus on **Flutter (Dart)** and **Android architecture**. Proven track record in **leading development teams**, designing **scalable software systems**, and delivering **high-quality mobile solutions**.
 
-- 🔭 **Leading** Android development teams & mentoring junior developers
-- 🏗️ **Architecting** scalable mobile solutions using **SOLID, MVVM & Clean Architecture**
-- 🤖 **Integrating** AI/ML features: image-to-text, text-to-image, LLM chatbots
-- 🚀 **Delivering** full-stack mobile solutions from requirement gathering to MVP
-- 💼 **Building** CRM, e-commerce, POS systems with seamless UX
-- 📫 Reach me: **nas.shihab92@gmail.com**
+### 🔭 **Leading** Android development teams & mentoring junior developers
+### 🏗️ **Architecting** scalable mobile solutions using **SOLID, MVVM & Clean Architecture**
+### 🤖 **Integrating** AI/ML features: image-to-text, text-to-image, LLM chatbots
+### 🚀 **Delivering** full-stack mobile solutions from requirement gathering to MVP
+### 💼 **Building** CRM, e-commerce, POS systems with seamless UX
+### 📫 Reach me: **nas.shihab92@gmail.com**
 
 <br clear="right"/>
 
@@ -39,7 +39,7 @@
 <!-- Core Expertise -->
 <div align="center">
 
-## 💼 Core Expertise
+# 💼 Core Expertise
 
 </div>
 
@@ -47,42 +47,40 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 State Management & Architecture
-```yaml
-Proficient in:
-  - Provider, Riverpod, GetX
-  - Reactive UI & scalable state handling
-  
-Architecture Patterns:
-  - SOLID principles
-  - MVVM, Clean Architecture
-  - Repository Pattern
-  
-System Design:
-  - Requirement analysis
-  - Feature breakdown
-  - Scalable solution implementation
-```
+## 🎨 State Management & Architecture
+
+### **Proficient in:**
+- Provider, Riverpod, GetX
+- Reactive UI & scalable state handling
+
+### **Architecture Patterns:**
+- SOLID principles
+- MVVM, Clean Architecture
+- Repository Pattern
+
+### **System Design:**
+- Requirement analysis
+- Feature breakdown
+- Scalable solution implementation
 
 </td>
 <td width="50%" valign="top">
 
-### 🔌 Backend & API Integration
-```yaml
-REST API:
-  - Design & integration
-  - Testing & validation
-  - Backend collaboration
-  
-Firebase Suite:
-  - Authentication, Firestore
-  - Cloud Functions, Analytics
-  - Crashlytics
-  
-Real-time Features:
-  - WebSocket, Push notifications
-  - Live data synchronization
-```
+## 🔌 Backend & API Integration
+
+### **REST API:**
+- Design & integration
+- Testing & validation
+- Backend collaboration
+
+### **Firebase Suite:**
+- Authentication, Firestore
+- Cloud Functions, Analytics
+- Crashlytics
+
+### **Real-time Features:**
+- WebSocket, Push notifications
+- Live data synchronization
 
 </td>
 </tr>
@@ -90,46 +88,44 @@ Real-time Features:
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 AI & Machine Learning Integration
-```yaml
-AI Workflows:
-  - Image-to-text generation
-  - Text-to-image with modern LLMs
-  
-Chatbot Development:
-  - LLM integration
-  - Conversational AI interfaces
-  
-Computer Vision:
-  - Face detection & liveness
-  - ML Kit, Regula integration
-  
-ML Models:
-  - TensorFlow Lite training
-  - Google ML Kit Image Labeling
-```
+## 🧠 AI & Machine Learning Integration
+
+### **AI Workflows:**
+- Image-to-text generation
+- Text-to-image with modern LLMs
+
+### **Chatbot Development:**
+- LLM integration
+- Conversational AI interfaces
+
+### **Computer Vision:**
+- Face detection & liveness
+- ML Kit, Regula integration
+
+### **ML Models:**
+- TensorFlow Lite training
+- Google ML Kit Image Labeling
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 Advanced Mobile Features
-```yaml
-Biometric Systems:
-  - Face detection & liveness
-  - Fingerprint authentication
-  
-Scanning & Capture:
-  - QR/Barcode scanning
-  - Selfie, document, ID capture
-  
-Hardware Integration:
-  - POS devices, thermal printers
-  - RFID/Biometric scanners
-  
-Custom SDKs:
-  - Platform channels
-  - Native SDK integration
-```
+## 📱 Advanced Mobile Features
+
+### **Biometric Systems:**
+- Face detection & liveness
+- Fingerprint authentication
+
+### **Scanning & Capture:**
+- QR/Barcode scanning
+- Selfie, document, ID capture
+
+### **Hardware Integration:**
+- POS devices, thermal printers
+- RFID/Biometric scanners
+
+### **Custom SDKs:**
+- Platform channels
+- Native SDK integration
 
 </td>
 </tr>
@@ -137,42 +133,40 @@ Custom SDKs:
 <tr>
 <td width="50%" valign="top">
 
-### 💳 Business Applications
-```yaml
-E-commerce Solutions:
-  - Cart, checkout systems
-  - Payment gateway integration
-  - Admin dashboards
-  
-CRM Modules:
-  - End-to-end CRM systems
-  - Customer management
-  
-Enterprise Tools:
-  - Quotation & invoice systems
-  - Attendance tracking (RFID/Biometric)
-  - POS applications & receipts
-```
+## 💳 Business Applications
+
+### **E-commerce Solutions:**
+- Cart, checkout systems
+- Payment gateway integration
+- Admin dashboards
+
+### **CRM Modules:**
+- End-to-end CRM systems
+- Customer management
+
+### **Enterprise Tools:**
+- Quotation & invoice systems
+- Attendance tracking (RFID/Biometric)
+- POS applications & receipts
 
 </td>
 <td width="50%" valign="top">
 
-### 👨‍💼 Leadership & Management
-```yaml
-Team Leadership:
-  - Led Android development teams
-  - Sprint planning & execution
-  - Code quality maintenance
-  
-Mentorship:
-  - Training junior developers
-  - Peer code reviews
-  
-DevOps & Process:
-  - CI/CD pipelines
-  - Automated testing
-  - Agile/Scrum methodologies
-```
+## 👨‍💼 Leadership & Management
+
+### **Team Leadership:**
+- Led Android development teams
+- Sprint planning & execution
+- Code quality maintenance
+
+### **Mentorship:**
+- Training junior developers
+- Peer code reviews
+
+### **DevOps & Process:**
+- CI/CD pipelines
+- Automated testing
+- Agile/Scrum methodologies
 
 </td>
 </tr>
@@ -183,16 +177,16 @@ DevOps & Process:
 <!-- Tech Stack Section -->
 <div align="center">
 
-## 🛠️ Technology Stack
+# 🛠️ Technology Stack
 
-### 📱 Mobile Development
+## 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### 🎨 Design & Creative Tools
+## 🎨 Design & Creative Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -200,25 +194,25 @@ DevOps & Process:
 ![Filmora](https://img.shields.io/badge/Filmora-00C4CC?style=for-the-badge&logo=wondershare&logoColor=white)
 ![Camtasia](https://img.shields.io/badge/Camtasia-00B140?style=for-the-badge&logo=techsmith&logoColor=white)
 
-### 🧠 AI/ML & Computer Vision
+## 🧠 AI/ML & Computer Vision
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google ML Kit](https://img.shields.io/badge/ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### ☁️ Backend & Database
+## ☁️ Backend & Database
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔧 DevOps & Tools
+## 🔧 DevOps & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 💼 Business & Marketing
+## 💼 Business & Marketing
 ![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-FF6B6B?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Social Media](https://img.shields.io/badge/Social%20Media%20Mgmt-1DA1F2?style=for-the-badge&logo=buffer&logoColor=white)
 ![Project Management](https://img.shields.io/badge/Project%20Management-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -227,57 +221,38 @@ DevOps & Process:
 
 ---
 
-<!-- WakaTime Stats -->
+<!-- Featured Capabilities -->
 <div align="center">
 
-## ⏱️ Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nasshihab&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
-<!--END_SECTION:waka-->
+# 🚀 Featured Capabilities
 
 </div>
 
----
+### **Mobile Development Expertise**
+- ✅ E-commerce platforms with payment integration
+- ✅ CRM & Business management systems
+- ✅ POS applications with hardware integration
+- ✅ AI-powered chatbots & ML features
+- ✅ Biometric authentication systems
+- ✅ Real-time attendance tracking solutions
 
-<!-- Featured Projects -->
-<div align="center">
+### **Technical Proficiency**
+- ✅ Flutter & Cross-platform development
+- ✅ Clean Architecture & SOLID principles
+- ✅ State Management (Riverpod, Provider, GetX)
+- ✅ AI/ML Integration (TensorFlow Lite, ML Kit, LLM)
+- ✅ Firebase Suite & REST API Development
+- ✅ Team Leadership & Agile Methodologies
 
-## 🚀 Featured Capabilities
-
-</div>
-
-```dart
-class NasShihab extends FlutterDeveloper {
-  final expertise = {
-    'mobile': ['Flutter', 'Android', 'iOS', 'Cross-platform'],
-    'architecture': ['Clean Architecture', 'MVVM', 'SOLID', 'DDD'],
-    'stateManagement': ['Riverpod', 'Provider', 'GetX', 'Bloc'],
-    'ai_ml': ['TensorFlow Lite', 'ML Kit', 'LLM Integration', 'Computer Vision'],
-    'backend': ['Firebase', 'REST API', 'GraphQL', 'WebSocket'],
-    'leadership': ['Team Lead', 'Mentorship', 'Agile/Scrum', 'Code Review']
-  };
-  
-  final deliverables = [
-    '✅ E-commerce platforms with payment integration',
-    '✅ CRM & Business management systems',
-    '✅ POS applications with hardware integration',
-    '✅ AI-powered chatbots & ML features',
-    '✅ Biometric authentication systems',
-    '✅ Real-time attendance tracking solutions'
-  ];
-  
-  String getApproach() => 
-    'Clean code + Scalable architecture + Seamless UX = Successful product';
-}
-```
+### **Development Philosophy**
+**"Clean code + Scalable architecture + Seamless UX = Successful product"**
 
 ---
 
 <!-- Skills Breakdown -->
 <div align="center">
 
-## 📈 Additional Skills
+# 📈 Additional Skills
 
 </div>
 
@@ -285,20 +260,20 @@ class NasShihab extends FlutterDeveloper {
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Creative Services
-- Video Editing (Camtasia, Filmora, Adobe)
-- Graphic Design & UI/UX
-- Brand Identity Design
-- Motion Graphics
+## 🎨 Creative Services
+### Video Editing (Camtasia, Filmora, Adobe)
+### Graphic Design & UI/UX
+### Brand Identity Design
+### Motion Graphics
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 Administrative & Business
-- Digital Marketing Strategy
-- Social Media Management
-- Data Entry & Management
-- IT Administration & Security
+## 💼 Administrative & Business
+### Digital Marketing Strategy
+### Social Media Management
+### Data Entry & Management
+### IT Administration & Security
 
 </td>
 </tr>
@@ -309,7 +284,7 @@ class NasShihab extends FlutterDeveloper {
 <!-- Connect Section -->
 <div align="center">
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <a href="https://linkedin.com/in/nas" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -349,7 +324,7 @@ class NasShihab extends FlutterDeveloper {
 <!-- Quote Section -->
 <div align="center">
 
-### 💭 Dev Wisdom
+## 💭 Dev Wisdom
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -360,7 +335,7 @@ class NasShihab extends FlutterDeveloper {
 <!-- Profile Views -->
 <div align="center">
 
-### 👁️ Profile Views
+## 👁️ Profile Views
 
 ![](https://komarev.com/ghpvc/?username=nasshihab&style=for-the-badge&color=blueviolet)
 
@@ -386,9 +361,9 @@ class NasShihab extends FlutterDeveloper {
 
 <div align="center">
 
-### 💙 Crafting exceptional mobile experiences with Flutter
+# 💙 Crafting exceptional mobile experiences with Flutter
 
-**"Clean code + Scalable architecture + Seamless UX = Successful product"**
+## **"Clean code + Scalable architecture + Seamless UX = Successful product"**
 
 **⭐️ From [nasshihab](https://github.com/nasshihab)**
 
