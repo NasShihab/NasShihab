@@ -95,6 +95,7 @@
 
 ### 🎨 Design & Creative Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Filmora](https://img.shields.io/badge/Filmora-00C4CC?style=for-the-badge&logo=wondershare&logoColor=white)
@@ -291,20 +292,5 @@ class NasShihab extends FlutterDeveloper {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nasshihab/nasshihab/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nasshihab/nasshihab/output/github-contribution-grid-snake.svg">
 </picture>
-
-</div>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
----
-
-<div align="center">
-
-### 💙 Crafting exceptional mobile experiences with Flutter
-
-**"Clean code + Scalable architecture + Seamless UX = Successful product"**
-
-**⭐️ From [nasshihab](https://github.com/nasshihab)**
 
 </div>
