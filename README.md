@@ -43,41 +43,140 @@
 
 </div>
 
-### 🎨 **State Management & Architecture**
-- **Proficient in:** Provider, Riverpod, GetX for reactive UI and scalable state handling
-- **Architecture Patterns:** SOLID principles, MVVM, Clean Architecture, Repository Pattern
-- **System Design:** Requirement analysis, feature breakdown, scalable solution implementation
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🔌 **Backend & API Integration**
-- **REST API:** Design, integration, testing, and validation with backend teams
-- **Firebase Suite:** Authentication, Firestore, Cloud Functions, Analytics, Crashlytics
-- **Real-time Features:** WebSocket, push notifications, live data synchronization
+### 🎨 State Management & Architecture
+```yaml
+Proficient in:
+  - Provider, Riverpod, GetX
+  - Reactive UI & scalable state handling
+  
+Architecture Patterns:
+  - SOLID principles
+  - MVVM, Clean Architecture
+  - Repository Pattern
+  
+System Design:
+  - Requirement analysis
+  - Feature breakdown
+  - Scalable solution implementation
+```
 
-### 🧠 **AI & Machine Learning Integration**
-- **AI Workflows:** Image-to-text, text-to-image generation using modern LLMs
-- **Chatbot Development:** LLM integration, conversational AI interfaces
-- **Computer Vision:** Face detection, liveness verification (ML Kit, Regula)
-- **ML Models:** TensorFlow Lite training, Google ML Kit Image Labeling
+</td>
+<td width="50%" valign="top">
 
-### 📱 **Advanced Mobile Features**
-- **Biometric Systems:** Face detection, liveness checks, fingerprint authentication
-- **QR/Barcode Scanning:** Custom scanning flows with validation
-- **Camera Integration:** Selfie capture, document scanning, ID verification
-- **Hardware Integration:** POS devices, thermal printers, RFID/Biometric scanners
-- **Custom SDKs:** Platform channels for native SDK integration
+### 🔌 Backend & API Integration
+```yaml
+REST API:
+  - Design & integration
+  - Testing & validation
+  - Backend collaboration
+  
+Firebase Suite:
+  - Authentication, Firestore
+  - Cloud Functions, Analytics
+  - Crashlytics
+  
+Real-time Features:
+  - WebSocket, Push notifications
+  - Live data synchronization
+```
 
-### 💳 **Business Applications**
-- **E-commerce Solutions:** Cart, checkout, payment gateways, admin dashboards
-- **CRM Modules:** End-to-end customer relationship management systems
-- **Invoicing Systems:** Quotation generation, invoice management, reporting
-- **Attendance Systems:** Real-time tracking with hardware integration (RFID/Biometric)
-- **POS Applications:** Ticketing, receipt printing, inventory management
+</td>
+</tr>
 
-### 👨‍💼 **Leadership & Management**
-- **Team Leadership:** Led Android teams, sprint planning, code quality maintenance
-- **Mentorship:** Training junior developers, peer code reviews
-- **CI/CD:** Automated testing, continuous integration/deployment pipelines
-- **Project Management:** Agile methodologies, sprint management, stakeholder communication
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 AI & Machine Learning Integration
+```yaml
+AI Workflows:
+  - Image-to-text generation
+  - Text-to-image with modern LLMs
+  
+Chatbot Development:
+  - LLM integration
+  - Conversational AI interfaces
+  
+Computer Vision:
+  - Face detection & liveness
+  - ML Kit, Regula integration
+  
+ML Models:
+  - TensorFlow Lite training
+  - Google ML Kit Image Labeling
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Advanced Mobile Features
+```yaml
+Biometric Systems:
+  - Face detection & liveness
+  - Fingerprint authentication
+  
+Scanning & Capture:
+  - QR/Barcode scanning
+  - Selfie, document, ID capture
+  
+Hardware Integration:
+  - POS devices, thermal printers
+  - RFID/Biometric scanners
+  
+Custom SDKs:
+  - Platform channels
+  - Native SDK integration
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💳 Business Applications
+```yaml
+E-commerce Solutions:
+  - Cart, checkout systems
+  - Payment gateway integration
+  - Admin dashboards
+  
+CRM Modules:
+  - End-to-end CRM systems
+  - Customer management
+  
+Enterprise Tools:
+  - Quotation & invoice systems
+  - Attendance tracking (RFID/Biometric)
+  - POS applications & receipts
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 👨‍💼 Leadership & Management
+```yaml
+Team Leadership:
+  - Led Android development teams
+  - Sprint planning & execution
+  - Code quality maintenance
+  
+Mentorship:
+  - Training junior developers
+  - Peer code reviews
+  
+DevOps & Process:
+  - CI/CD pipelines
+  - Automated testing
+  - Agile/Scrum methodologies
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -95,7 +194,6 @@
 
 ### 🎨 Design & Creative Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Filmora](https://img.shields.io/badge/Filmora-00C4CC?style=for-the-badge&logo=wondershare&logoColor=white)
@@ -292,5 +390,20 @@ class NasShihab extends FlutterDeveloper {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nasshihab/nasshihab/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nasshihab/nasshihab/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+---
+
+<div align="center">
+
+### 💙 Crafting exceptional mobile experiences with Flutter
+
+**"Clean code + Scalable architecture + Seamless UX = Successful product"**
+
+**⭐️ From [nasshihab](https://github.com/nasshihab)**
 
 </div>
