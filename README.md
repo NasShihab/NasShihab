@@ -194,6 +194,7 @@ DevOps & Process:
 
 ### 🎨 Design & Creative Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Filmora](https://img.shields.io/badge/Filmora-00C4CC?style=for-the-badge&logo=wondershare&logoColor=white)
@@ -221,21 +222,6 @@ DevOps & Process:
 ![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-FF6B6B?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Social Media](https://img.shields.io/badge/Social%20Media%20Mgmt-1DA1F2?style=for-the-badge&logo=buffer&logoColor=white)
 ![Project Management](https://img.shields.io/badge/Project%20Management-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-</div>
-
----
-
-<!-- GitHub Stats Section -->
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nasshihab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nasshihab&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasshihab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=nasshihab&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
