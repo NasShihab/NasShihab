@@ -1,68 +1,127 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nas%20Shihab&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20|%20Mobile%20&%20Web%20Architect%20|%20UI/UX%20Enthusiast&descSize=16&descAlignY=51"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nas%20Shihab&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Flutter%20Developer%20|%20Mobile%20Architect%20|%20Team%20Lead&descSize=16&descAlignY=51"/>
 
 </div>
 
 <div align="center">
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3ABEF9&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Nas+Shihab;Flutter+Developer+%F0%9F%9A%80;Mobile+%26+Web+Specialist+%F0%9F%92%BB;UI%2FUX+Lover+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3ABEF9&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=100&lines=Hi+%F0%9F%91%8B+I'm+Nas+Shihab;Senior+Flutter+Developer+%F0%9F%9A%80;Mobile+%26+Software+Architect+%F0%9F%8E%AF;AI+Integration+Specialist+%F0%9F%A4%96;Team+Leader+%26+Mentor+%F0%9F%91%A5" alt="Typing SVG" /></a>
 
 </div>
 
 <br/>
 
-<!-- About Me Section with Icons -->
+<!-- Professional Summary -->
 <div align="center">
 
-### 🎯 About Me
+## 🎯 Professional Summary
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 </div>
 
-- 🔭 Currently working on **innovative Flutter applications**
-- 🌱 Learning **Advanced State Management & Clean Architecture**
-- 💡 Exploring **AI/ML integration in mobile apps**
-- 👯 Looking to collaborate on **open source Flutter projects**
-- 💬 Ask me about **Flutter, Dart, UI/UX Design**
-- 📫 Reach me: **nas.shihab@example.com**
-- ⚡ Fun fact: **I love creating pixel-perfect UIs**
+**Experienced cross-platform mobile app developer** with a strong focus on **Flutter (Dart)** and **Android architecture**. Proven track record in **leading development teams**, designing **scalable software systems**, and delivering **high-quality mobile solutions**.
 
-<br/>
+- 🔭 **Leading** Android development teams & mentoring junior developers
+- 🏗️ **Architecting** scalable mobile solutions using **SOLID, MVVM & Clean Architecture**
+- 🤖 **Integrating** AI/ML features: image-to-text, text-to-image, LLM chatbots
+- 🚀 **Delivering** full-stack mobile solutions from requirement gathering to MVP
+- 💼 **Building** CRM, e-commerce, POS systems with seamless UX
+- 📫 Reach me: **nas.shihab92@gmail.com**
+
+<br clear="right"/>
 
 ---
 
-<!-- Tech Stack Section with Badges -->
+<!-- Core Expertise -->
 <div align="center">
 
-## 🛠️ Tech Arsenal
+## 💼 Core Expertise
+
+</div>
+
+### 🎨 **State Management & Architecture**
+- **Proficient in:** Provider, Riverpod, GetX for reactive UI and scalable state handling
+- **Architecture Patterns:** SOLID principles, MVVM, Clean Architecture, Repository Pattern
+- **System Design:** Requirement analysis, feature breakdown, scalable solution implementation
+
+### 🔌 **Backend & API Integration**
+- **REST API:** Design, integration, testing, and validation with backend teams
+- **Firebase Suite:** Authentication, Firestore, Cloud Functions, Analytics, Crashlytics
+- **Real-time Features:** WebSocket, push notifications, live data synchronization
+
+### 🧠 **AI & Machine Learning Integration**
+- **AI Workflows:** Image-to-text, text-to-image generation using modern LLMs
+- **Chatbot Development:** LLM integration, conversational AI interfaces
+- **Computer Vision:** Face detection, liveness verification (ML Kit, Regula)
+- **ML Models:** TensorFlow Lite training, Google ML Kit Image Labeling
+
+### 📱 **Advanced Mobile Features**
+- **Biometric Systems:** Face detection, liveness checks, fingerprint authentication
+- **QR/Barcode Scanning:** Custom scanning flows with validation
+- **Camera Integration:** Selfie capture, document scanning, ID verification
+- **Hardware Integration:** POS devices, thermal printers, RFID/Biometric scanners
+- **Custom SDKs:** Platform channels for native SDK integration
+
+### 💳 **Business Applications**
+- **E-commerce Solutions:** Cart, checkout, payment gateways, admin dashboards
+- **CRM Modules:** End-to-end customer relationship management systems
+- **Invoicing Systems:** Quotation generation, invoice management, reporting
+- **Attendance Systems:** Real-time tracking with hardware integration (RFID/Biometric)
+- **POS Applications:** Ticketing, receipt printing, inventory management
+
+### 👨‍💼 **Leadership & Management**
+- **Team Leadership:** Led Android teams, sprint planning, code quality maintenance
+- **Mentorship:** Training junior developers, peer code reviews
+- **CI/CD:** Automated testing, continuous integration/deployment pipelines
+- **Project Management:** Agile methodologies, sprint management, stakeholder communication
+
+---
+
+<!-- Tech Stack Section -->
+<div align="center">
+
+## 🛠️ Technology Stack
 
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### 🎨 Design & UI/UX
+### 🎨 Design & Creative Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Filmora](https://img.shields.io/badge/Filmora-00C4CC?style=for-the-badge&logo=wondershare&logoColor=white)
+![Camtasia](https://img.shields.io/badge/Camtasia-00B140?style=for-the-badge&logo=techsmith&logoColor=white)
+
+### 🧠 AI/ML & Computer Vision
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google ML Kit](https://img.shields.io/badge/ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### ☁️ Backend & Database
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔧 Tools & Others
+### 🔧 DevOps & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### 💼 Business & Marketing
+![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-FF6B6B?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Social Media](https://img.shields.io/badge/Social%20Media%20Mgmt-1DA1F2?style=for-the-badge&logo=buffer&logoColor=white)
+![Project Management](https://img.shields.io/badge/Project%20Management-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
 
@@ -86,7 +145,7 @@
 <!-- WakaTime Stats -->
 <div align="center">
 
-## ⏱️ Coding Activity
+## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nasshihab&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
@@ -96,21 +155,76 @@
 
 ---
 
-<!-- Trophies Section -->
+<!-- Featured Projects -->
 <div align="center">
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=nasshihab&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="Trophies" />
+## 🚀 Featured Capabilities
 
 </div>
+
+```dart
+class NasShihab extends FlutterDeveloper {
+  final expertise = {
+    'mobile': ['Flutter', 'Android', 'iOS', 'Cross-platform'],
+    'architecture': ['Clean Architecture', 'MVVM', 'SOLID', 'DDD'],
+    'stateManagement': ['Riverpod', 'Provider', 'GetX', 'Bloc'],
+    'ai_ml': ['TensorFlow Lite', 'ML Kit', 'LLM Integration', 'Computer Vision'],
+    'backend': ['Firebase', 'REST API', 'GraphQL', 'WebSocket'],
+    'leadership': ['Team Lead', 'Mentorship', 'Agile/Scrum', 'Code Review']
+  };
+  
+  final deliverables = [
+    '✅ E-commerce platforms with payment integration',
+    '✅ CRM & Business management systems',
+    '✅ POS applications with hardware integration',
+    '✅ AI-powered chatbots & ML features',
+    '✅ Biometric authentication systems',
+    '✅ Real-time attendance tracking solutions'
+  ];
+  
+  String getApproach() => 
+    'Clean code + Scalable architecture + Seamless UX = Successful product';
+}
+```
+
+---
+
+<!-- Skills Breakdown -->
+<div align="center">
+
+## 📈 Additional Skills
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Creative Services
+- Video Editing (Camtasia, Filmora, Adobe)
+- Graphic Design & UI/UX
+- Brand Identity Design
+- Motion Graphics
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Administrative & Business
+- Digital Marketing Strategy
+- Social Media Management
+- Data Entry & Management
+- IT Administration & Security
+
+</td>
+</tr>
+</table>
 
 ---
 
 <!-- Connect Section -->
 <div align="center">
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <a href="https://linkedin.com/in/nas" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -130,11 +244,17 @@
 <a href="https://www.youtube.com/channel/UCkC_dCceTw9o1-Rq4IxK2HQ" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
-<a href="mailto:nas.shihab@example.com">
+
+<br/><br/>
+
+<a href="mailto:nas.shihab92@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://drive.google.com/file/d/1xc6PUy8kWw0DmPpzksHQCWaxt4eIigIn/view?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+</a>
+<a href="https://buymeacoffee.com/nasshihab9q" target="_blank">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
 </a>
 
 </div>
@@ -144,7 +264,7 @@
 <!-- Quote Section -->
 <div align="center">
 
-### 💭 Random Dev Quote
+### 💭 Dev Wisdom
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -152,18 +272,12 @@
 
 ---
 
-<!-- Profile Views and Support -->
+<!-- Profile Views -->
 <div align="center">
 
 ### 👁️ Profile Views
 
 ![](https://komarev.com/ghpvc/?username=nasshihab&style=for-the-badge&color=blueviolet)
-
-### ☕ Support Me
-
-<a href="https://www.buymeacoffee.com/nasshihab" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162px !important;" >
-</a>
 
 </div>
 
@@ -187,7 +301,9 @@
 
 <div align="center">
 
-### 💙 Made with love and Flutter
+### 💙 Crafting exceptional mobile experiences with Flutter
+
+**"Clean code + Scalable architecture + Seamless UX = Successful product"**
 
 **⭐️ From [nasshihab](https://github.com/nasshihab)**
 
